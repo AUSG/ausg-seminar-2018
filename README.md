@@ -1,11 +1,10 @@
-# AWSKRUG University Students Group(AUSG) Hands-on Labs 2018 
-AUSG Hands-on Lab 2018 is bi-weekly HoLs on January and Febrary with topics building sample applications using AWS's basic services. Here is voluntary made guides. If you want to join HoLs, please refer to https://www.meetup.com/awskrug/events/.
-
-* 11 Jan - [Build Bitcoin Chatbot by Django with Amazon EC2 and Django](AUSG_KakaoBot) (Korean)
-* 25 Jan - [How to collaborate for team project with AWS Cloud9 and AWS Elastic Beanstalk](teamplay) (Korean)
-* 1 Feb - [Implementing fast authenfications with Amazon Cognito](Cognito) (Korean)
-* 8 Feb - [Image server to resize automatically with AWS Lambda](ImageResize) (Korean)
-* 22 Feb - [Easy Front-end Web Developments with Amazon S3 and Vue.js](TrendyWebDev) (Korean)
-
-<img src="https://secure.meetupstatic.com/photos/event/5/b/a/5/600_467843461.jpeg" height="250" alt="Poster"> <img src="https://secure.meetupstatic.com/photos/event/4/2/5/2/600_467896978.jpeg" height="250" alt="Meetup"> <img src="https://secure.meetupstatic.com/photos/event/4/2/6/9/600_467897001.jpeg" height="250">
-
+# AUSG_Seminar2018
+AUSG 세미나 자료
+##### 1회차 : [1월 11일(목) - Python으로 비트코인 챗봇 만들기 가즈아ㅏㅏ with AWS EC2, Django](AUSG_KakaoBot)
+##### 2회차 : [1월 25일(목) - 팀플 과제를 여행하는 히치하이커를 위한 안내서 with AWS C9, AWS Elastic Beanstalk](teamplay)
+##### 3회차 : 2월 1일(목) - AWS로 구현하는 손쉬운 앱 로그인 with AWS Cognito
+##### 4회차 : [2월 8일(목) - AWS로 무료 이미지 리사이즈 서버 만들기 with AWS Lambda](ImageResize)
+##### 5회차 : [2월 22일(목) - 트렌디한 웹 개발과 쉬운 배포 체험하기 with AWS S3, Vue.js](TrendyWebDev)
+##### 6회차 : [9월 19일(수) - Node.js 서버리스 프레임웍을 사용하여 싱글페이지 포트폴리오 제작하기](https://github.com/yoonhoGo/serverless-spa-portfolio/blob/master/README.md)
+##### 7회차 : [11월 22일(목) - Docker 입문자를 위한 세미나](https://github.com/sangyeol-kim/ausg-docker-seminar)
+##### 8회차 : [12월 6일(목) - AWS 계정을 갓 생성한 초보자를 위한 세미나](https://github.com/jominjimail/ausg/tree/master/hands_on)
